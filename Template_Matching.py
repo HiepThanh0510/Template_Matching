@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-from matplotlib import pyplot as plt 
+
 
 # load image and convert to grayscale
 image = cv2.imread('/home/thanh/Pictures/Family.jpg', 1)
