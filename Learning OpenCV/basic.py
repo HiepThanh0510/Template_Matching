@@ -29,5 +29,10 @@ cv.imshow('Eroding', eroded)
 resized = cv.resize(img, (200, 100)) # giu nguyen chieu rong, bop chieu dai 
 cv.imshow('Resize', resized)
 
+# 7. Cropping 
+cropped = img[:,20:150] # keep height, crop width
+cv.imshow('Cropping', cropped)
+
+
 
 cv.waitKey(0)
