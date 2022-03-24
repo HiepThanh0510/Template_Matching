@@ -11,4 +11,5 @@
 
  ![](https://i.imgur.com/DCrhEB4.png)
 2. Read QR code using opencv library
+
  ![](https://i.imgur.com/vnSaoFb.png)
